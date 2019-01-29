@@ -11,6 +11,10 @@ https://bitbucket.org/jadslim/german-traffic-signs
 
 The German Traffic Sign dataset consists of 43 different traffic sign with each image having 32×32 px size. This dataset has 39,209 images as training data (Using this number of an image we have to train a neural network) and 12,630 images as a test data. Each image is a photo of one of the 43 class of traffic sign.
 
+![Alt text](https://cdn-images-1.medium.com/max/800/1*Ij6RY6VlN-BzccVz__nqgg.png)
+
+While going through each class images and plotting the distribution of a number of images I end up with below graph.
+
 ![Alt text](https://cdn-images-1.medium.com/max/800/1*mMigkDLgCsz3oENwoOdUOw.png)
 
 # Augmentation
