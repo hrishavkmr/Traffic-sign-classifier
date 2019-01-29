@@ -5,6 +5,8 @@
 2. Keras
 3. Tensorflow
 4. Pandas
+5. Pickle
+6. Numpy
 
 To run this code, you can download german traffic signs from the following link:
 https://bitbucket.org/jadslim/german-traffic-signs
